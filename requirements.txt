@@ -1,0 +1,21 @@
+# Core ML/DL
+tensorflow
+scikit-learn
+numpy
+pandas
+
+# Audio processing
+librosa
+soundfile
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Model export
+onnx
+onnxruntime
+
+# Utilities
+tqdm
