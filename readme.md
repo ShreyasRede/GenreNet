@@ -21,9 +21,13 @@ This project demonstrates data preprocessing, model training, and evaluation for
 
 GenreNet/
 ├── experiment.ipynb # Jupyter notebook for experiments
+
 ├── requirements.txt # Python dependencies
+
 ├── README.md # Project documentation
+
 └── .gitignore # Ignored files and folders
+
 
 
 ---
@@ -54,3 +58,4 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 This project is licensed under the MIT License.
 See the LICENSE
  file for details.
+
